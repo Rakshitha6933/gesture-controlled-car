@@ -74,3 +74,8 @@ gesture-controlled-car/
 Install dependencies:
 ```bash
 pip install opencv-python mediapipe pyserial
+
+Run:
+
+python gesture_control.py
+
